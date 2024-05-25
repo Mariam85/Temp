@@ -1,0 +1,4 @@
+2,Mariam,1019997473,October,300
+4,Habiba,1110757473,October,50
+6,Mariam,1010757473,October,300
+8,Mariam,1010757473,October,300
